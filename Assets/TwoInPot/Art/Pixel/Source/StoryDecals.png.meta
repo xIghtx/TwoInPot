@@ -1,0 +1,2797 @@
+fileFormatVersion: 2
+guid: 75b653079da58da4f933dc1faa5eb0eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6368029263212413199
+    second: StoryDecals_0
+  - first:
+      213: 608219344173352959
+    second: StoryDecals_1
+  - first:
+      213: -7687887102659715237
+    second: StoryDecals_2
+  - first:
+      213: 2105235804994495395
+    second: StoryDecals_3
+  - first:
+      213: 3224938510609622569
+    second: StoryDecals_4
+  - first:
+      213: 3437789285779590291
+    second: StoryDecals_5
+  - first:
+      213: 1233426043455215982
+    second: StoryDecals_6
+  - first:
+      213: -3108101631169477047
+    second: StoryDecals_7
+  - first:
+      213: 80974957014986485
+    second: StoryDecals_8
+  - first:
+      213: 2543659091038035218
+    second: StoryDecals_9
+  - first:
+      213: 4119524623632161016
+    second: StoryDecals_10
+  - first:
+      213: 7111703384085076326
+    second: StoryDecals_11
+  - first:
+      213: -8836346934533549698
+    second: StoryDecals_12
+  - first:
+      213: 664464390888989062
+    second: StoryDecals_13
+  - first:
+      213: -8662641559751356489
+    second: StoryDecals_14
+  - first:
+      213: 265241583817362082
+    second: StoryDecals_15
+  - first:
+      213: -3696585620310443995
+    second: StoryDecals_16
+  - first:
+      213: 9059103715089308715
+    second: StoryDecals_17
+  - first:
+      213: 6512170322799365061
+    second: StoryDecals_18
+  - first:
+      213: -8283370483341443405
+    second: StoryDecals_19
+  - first:
+      213: 517774721868545355
+    second: StoryDecals_20
+  - first:
+      213: -8031860471054828477
+    second: StoryDecals_21
+  - first:
+      213: -3269069187783324852
+    second: StoryDecals_22
+  - first:
+      213: 6362427533323163266
+    second: StoryDecals_23
+  - first:
+      213: 5150454279102194054
+    second: StoryDecals_24
+  - first:
+      213: 1488318890201793635
+    second: StoryDecals_25
+  - first:
+      213: 1962056165009807783
+    second: StoryDecals_26
+  - first:
+      213: -6070730902448801821
+    second: StoryDecals_27
+  - first:
+      213: 4672547483810615552
+    second: StoryDecals_28
+  - first:
+      213: -8545438065968855976
+    second: StoryDecals_29
+  - first:
+      213: -8527043626168504625
+    second: StoryDecals_30
+  - first:
+      213: 3625634978641680985
+    second: StoryDecals_31
+  - first:
+      213: 9067755334004604028
+    second: StoryDecals_32
+  - first:
+      213: 2985200379864364474
+    second: StoryDecals_33
+  - first:
+      213: 2984039543792915023
+    second: StoryDecals_34
+  - first:
+      213: -4367199596308647016
+    second: StoryDecals_35
+  - first:
+      213: 9161265895140894555
+    second: StoryDecals_36
+  - first:
+      213: 4849156215439729885
+    second: StoryDecals_37
+  - first:
+      213: 2529226355524021887
+    second: StoryDecals_38
+  - first:
+      213: -1173416094820086293
+    second: StoryDecals_39
+  - first:
+      213: -6667646530930427016
+    second: StoryDecals_40
+  - first:
+      213: -6616678844710890284
+    second: StoryDecals_41
+  - first:
+      213: -2152983229208151318
+    second: StoryDecals_42
+  - first:
+      213: 6573124810965987911
+    second: StoryDecals_43
+  - first:
+      213: 3853018709638088707
+    second: StoryDecals_44
+  - first:
+      213: -7129926477725034632
+    second: StoryDecals_45
+  - first:
+      213: 6503373490570645912
+    second: StoryDecals_46
+  - first:
+      213: 6752484463927575120
+    second: StoryDecals_47
+  - first:
+      213: 4143428817296635692
+    second: StoryDecals_48
+  - first:
+      213: 3134470636142923746
+    second: StoryDecals_49
+  - first:
+      213: 6327736864076787954
+    second: StoryDecals_50
+  - first:
+      213: 1825071277696606131
+    second: StoryDecals_51
+  - first:
+      213: -2252060477996192934
+    second: StoryDecals_52
+  - first:
+      213: -7207766167919229059
+    second: StoryDecals_53
+  - first:
+      213: -8177667589750404458
+    second: StoryDecals_54
+  - first:
+      213: 4514170033195668335
+    second: StoryDecals_55
+  - first:
+      213: 1380359587941725142
+    second: StoryDecals_56
+  - first:
+      213: 3670740639211078987
+    second: StoryDecals_57
+  - first:
+      213: 1938849459317578879
+    second: StoryDecals_58
+  - first:
+      213: 730234904270488304
+    second: StoryDecals_59
+  - first:
+      213: -414538198152646415
+    second: StoryDecals_60
+  - first:
+      213: -4413380210242908485
+    second: StoryDecals_61
+  - first:
+      213: 6817155992614236435
+    second: StoryDecals_62
+  - first:
+      213: -3788470937938920582
+    second: StoryDecals_63
+  - first:
+      213: 8104052856742315649
+    second: StoryDecals_64
+  - first:
+      213: 1191381643142843688
+    second: StoryDecals_65
+  - first:
+      213: 2594896888059567996
+    second: StoryDecals_66
+  - first:
+      213: -321680158481057
+    second: StoryDecals_67
+  - first:
+      213: 6950098151596879072
+    second: StoryDecals_68
+  - first:
+      213: 4393107539993851614
+    second: StoryDecals_69
+  - first:
+      213: -1023064157664579592
+    second: StoryDecals_70
+  - first:
+      213: -5146554691125309378
+    second: StoryDecals_71
+  - first:
+      213: -4723496582072195821
+    second: StoryDecals_72
+  - first:
+      213: -4019525417673576170
+    second: StoryDecals_73
+  - first:
+      213: 5640883077701932267
+    second: StoryDecals_74
+  - first:
+      213: 2662711501419393657
+    second: StoryDecals_75
+  - first:
+      213: -589774059789086399
+    second: StoryDecals_76
+  - first:
+      213: 3047191572724096167
+    second: StoryDecals_77
+  - first:
+      213: -8339449552415070178
+    second: StoryDecals_78
+  - first:
+      213: -1303952516314120173
+    second: StoryDecals_79
+  - first:
+      213: -4320030079861991192
+    second: StoryDecals_80
+  - first:
+      213: 8335598067876428508
+    second: StoryDecals_81
+  - first:
+      213: 1535602350509461686
+    second: StoryDecals_82
+  - first:
+      213: -9082337377470976969
+    second: StoryDecals_83
+  - first:
+      213: 5590743600023631167
+    second: StoryDecals_84
+  - first:
+      213: -5942536716423396124
+    second: StoryDecals_85
+  - first:
+      213: 5512814910717871663
+    second: StoryDecals_86
+  - first:
+      213: -830040372118162961
+    second: StoryDecals_87
+  - first:
+      213: 7856924031262376429
+    second: StoryDecals_88
+  - first:
+      213: -2174738096599570330
+    second: StoryDecals_89
+  - first:
+      213: 5062551188726407665
+    second: StoryDecals_90
+  - first:
+      213: 7274989257668874635
+    second: StoryDecals_91
+  - first:
+      213: 4803921867507289736
+    second: StoryDecals_92
+  - first:
+      213: -727794407820643418
+    second: StoryDecals_93
+  - first:
+      213: 9119366183542933088
+    second: StoryDecals_94
+  - first:
+      213: 2328657477524634772
+    second: StoryDecals_95
+  - first:
+      213: 2894088360013088838
+    second: StoryDecals_96
+  - first:
+      213: 6542497370617284721
+    second: StoryDecals_97
+  - first:
+      213: -4277781354541355112
+    second: StoryDecals_98
+  - first:
+      213: 7688229214078057727
+    second: StoryDecals_99
+  - first:
+      213: 1220719839978659322
+    second: StoryDecals_100
+  - first:
+      213: -1472356528432708963
+    second: StoryDecals_101
+  - first:
+      213: -7550212853281243060
+    second: StoryDecals_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoryDecals_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1161
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01811920e8cf5850800000000000000
+      internalID: 6368029263212413199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1164
+        width: 106
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff749f26544d07800800000000000000
+      internalID: 608219344173352959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_2
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1237
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f19ac89632f4590800000000000000
+      internalID: -7687887102659715237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_3
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1164
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a361258fcc473d10800000000000000
+      internalID: 2105235804994495395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1144
+        width: 29
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262d5b2d7841cc20800000000000000
+      internalID: 3224938510609622569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1140
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c4987242b75bf20800000000000000
+      internalID: 3437789285779590291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1179
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e691dd893720e1110800000000000000
+      internalID: 1233426043455215982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_7
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1195
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946c45ca80ecdd4d0800000000000000
+      internalID: -3108101631169477047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_8
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1161
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fea49c5b4eaf1100800000000000000
+      internalID: 80974957014986485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_9
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1219
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd3076774ec4320800000000000000
+      internalID: 2543659091038035218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1189
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8d11ba1dd7b2930800000000000000
+      internalID: 4119524623632161016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66995546c88d1b260800000000000000
+      internalID: 7111703384085076326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1153
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71140fa74dfe5580800000000000000
+      internalID: -8836346934533549698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1140
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a5d0d7d6a83900800000000000000
+      internalID: 664464390888989062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_14
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1175
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0c76e56d18c780800000000000000
+      internalID: -8662641559751356489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1164
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa881fa0d35ea300800000000000000
+      internalID: 265241583817362082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1154
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5283493b6f613bcc0800000000000000
+      internalID: -3696585620310443995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1166
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cd159e4d668bd70800000000000000
+      internalID: 9059103715089308715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_18
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1185
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb0c47d760ef5a50800000000000000
+      internalID: 6512170322799365061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1171
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be3a7dbe6e8b0d80800000000000000
+      internalID: -8283370483341443405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_20
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1150
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4db6a2cd518f2700800000000000000
+      internalID: 517774721868545355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_21
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1183
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c7649c479198090800000000000000
+      internalID: -8031860471054828477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_22
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1186
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b000cd4eee1a2d0800000000000000
+      internalID: -3269069187783324852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1169
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28654e8c122eb4850800000000000000
+      internalID: 6362427533323163266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_24
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1158
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681e6c9e0e61a7740800000000000000
+      internalID: 5150454279102194054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_25
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 588
+        width: 548
+        height: 592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3644bfa252297a410800000000000000
+      internalID: 1488318890201793635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_26
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1189
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a956c8cfaf9a3b10800000000000000
+      internalID: 1962056165009807783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_27
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1169
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e77d88886e60cba0800000000000000
+      internalID: -6070730902448801821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_28
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1154
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0015da82e2938d040800000000000000
+      internalID: 4672547483810615552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_29
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1179
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85443dbca51886980800000000000000
+      internalID: -8545438065968855976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_30
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1175
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcea7fd000bd9a980800000000000000
+      internalID: -8527043626168504625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_31
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1186
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a1b2bbdc7d05230800000000000000
+      internalID: 3625634978641680985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_32
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1175
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c7f79ee6327dd70800000000000000
+      internalID: 9067755334004604028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_33
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1146
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab53d21edef8d6920800000000000000
+      internalID: 2985200379864364474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1156
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42de7ba720796920800000000000000
+      internalID: 2984039543792915023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1152
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8933bc60b179463c0800000000000000
+      internalID: -4367199596308647016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1140
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5726cc0bca532f70800000000000000
+      internalID: 9161265895140894555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1131
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4a9a1d2e9ab4340800000000000000
+      internalID: 4849156215439729885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea09d48fd991320800000000000000
+      internalID: 2529226355524021887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1146
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedc58e574037bfe0800000000000000
+      internalID: -1173416094820086293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_40
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1146
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb60c8ec2c773a0800000000000000
+      internalID: -6667646530930427016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_41
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1130
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d45a2cb5a5dc24a0800000000000000
+      internalID: -6616678844710890284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_42
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeabca7f8211f12e0800000000000000
+      internalID: -2152983229208151318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1141
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423fed803e683b50800000000000000
+      internalID: 6573124810965987911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_44
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30889ec2a1ca87530800000000000000
+      internalID: 3853018709638088707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_45
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8771c8cf4a96d0d90800000000000000
+      internalID: -7129926477725034632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1139
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891d72bbbbf904a50800000000000000
+      internalID: 6503373490570645912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524fbff7d4a5bd50800000000000000
+      internalID: 6752484463927575120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 901
+        width: 300
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2735177e8a608930800000000000000
+      internalID: 4143428817296635692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_49
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1144
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef013abf60ef7b20800000000000000
+      internalID: 3134470636142923746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_50
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1104
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0f07fe623a0d750800000000000000
+      internalID: 6327736864076787954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_51
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1138
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfdfdc48a4f35910800000000000000
+      internalID: 1825071277696606131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 702
+        height: 1135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b275c5de21fb0e0800000000000000
+      internalID: -2252060477996192934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1076
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778811dbded8fb90800000000000000
+      internalID: -7207766167919229059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1110
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ac3bd77a6138e80800000000000000
+      internalID: -8177667589750404458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_55
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1124
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6357546abd85ae30800000000000000
+      internalID: 4514170033195668335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d332955bb5082310800000000000000
+      internalID: 1380359587941725142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_57
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1049
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4544c6b92711f230800000000000000
+      internalID: 3670740639211078987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_58
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 982
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c159f8f4d28ea10800000000000000
+      internalID: 1938849459317578879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_59
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1052
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f242a7c6c0522a00800000000000000
+      internalID: 730234904270488304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 974
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0f74184b34f3af0800000000000000
+      internalID: -414538198152646415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_61
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 949
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe8bb5f41680c2c0800000000000000
+      internalID: -4413380210242908485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_62
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 900
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3117236a1476b9e50800000000000000
+      internalID: 6817155992614236435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_63
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 903
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b724e01c5ac6bc0800000000000000
+      internalID: -3788470937938920582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_64
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 769
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1868d17d221677070800000000000000
+      internalID: 8104052856742315649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_65
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 779
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d437fca43a88010800000000000000
+      internalID: 1191381643142843688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_66
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 775
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f9e89a8fce20420800000000000000
+      internalID: 2594896888059567996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 650
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f552c600f6bdefff0800000000000000
+      internalID: -321680158481057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_68
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 609
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece7081275b37060800000000000000
+      internalID: 6950098151596879072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_69
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 599
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed67c6d280477fc30800000000000000
+      internalID: 4393107539993851614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_70
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 616
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffe7fba1985dc1f0800000000000000
+      internalID: -1023064157664579592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_71
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 600
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e301b5aa6c3c398b0800000000000000
+      internalID: -5146554691125309378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_72
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 553
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a0df72e4c27eb0800000000000000
+      internalID: -4723496582072195821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_73
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 586
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b9e1dde6c738c0800000000000000
+      internalID: -4019525417673576170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_74
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 590
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be49fe1c541784e40800000000000000
+      internalID: 5640883077701932267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_75
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 590
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972337db00ad3f420800000000000000
+      internalID: 2662711501419393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 532
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141188c0e93b0d7f0800000000000000
+      internalID: -589774059789086399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_77
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 455
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac98c6379cc94a20800000000000000
+      internalID: 3047191572724096167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_78
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 443
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18620ef0d2544c80800000000000000
+      internalID: -8339449552415070178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_79
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 369
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ce15581e67ede0800000000000000
+      internalID: -1303952516314120173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8d2d6e78b2c04c0800000000000000
+      internalID: -4320030079861991192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_81
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 23
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaf432674efda370800000000000000
+      internalID: 8335598067876428508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_82
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 29
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01f5aa33e8f4510800000000000000
+      internalID: 1535602350509461686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 51
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ce695864e05f180800000000000000
+      internalID: -9082337377470976969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_84
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 27
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3572b5eeaf469d40800000000000000
+      internalID: 5590743600023631167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_85
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 21
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e40ed0675ed78da0800000000000000
+      internalID: -5942536716423396124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_86
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 47
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c0d104f3718c40800000000000000
+      internalID: 5512814910717871663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_87
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1f9a6edaa1b74f0800000000000000
+      internalID: -830040372118162961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_88
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 47
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1cf9657c6690d60800000000000000
+      internalID: 7856924031262376429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_89
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 55
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686ca03937c1d1e0800000000000000
+      internalID: -2174738096599570330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_90
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 47
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e44dcb7bc14640800000000000000
+      internalID: 5062551188726407665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81d2207f24f5f460800000000000000
+      internalID: 7274989257668874635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_92
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 51
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ec0897c75faa240800000000000000
+      internalID: 4803921867507289736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_93
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 46
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b55497da56e5f0800000000000000
+      internalID: -727794407820643418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_94
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 94
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06649ca3a3f7e8e70800000000000000
+      internalID: 9119366183542933088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_95
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cb96753ad015020800000000000000
+      internalID: 2328657477524634772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 34
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6484c27a70ed92820800000000000000
+      internalID: 2894088360013088838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_97
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 23
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1780297e1be9bca50800000000000000
+      internalID: 6542497370617284721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_98
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 31
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe5cfc58442a4c0800000000000000
+      internalID: -4277781354541355112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc37e87cb312ba60800000000000000
+      internalID: 7688229214078057727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_100
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd13301a3ed0f010800000000000000
+      internalID: 1220719839978659322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_101
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 15
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d928a0cc983219be0800000000000000
+      internalID: -1472356528432708963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoryDecals_102
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c404595a961483790800000000000000
+      internalID: -7550212853281243060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StoryDecals_0: 6368029263212413199
+      StoryDecals_1: 608219344173352959
+      StoryDecals_10: 4119524623632161016
+      StoryDecals_100: 1220719839978659322
+      StoryDecals_101: -1472356528432708963
+      StoryDecals_102: -7550212853281243060
+      StoryDecals_11: 7111703384085076326
+      StoryDecals_12: -8836346934533549698
+      StoryDecals_13: 664464390888989062
+      StoryDecals_14: -8662641559751356489
+      StoryDecals_15: 265241583817362082
+      StoryDecals_16: -3696585620310443995
+      StoryDecals_17: 9059103715089308715
+      StoryDecals_18: 6512170322799365061
+      StoryDecals_19: -8283370483341443405
+      StoryDecals_2: -7687887102659715237
+      StoryDecals_20: 517774721868545355
+      StoryDecals_21: -8031860471054828477
+      StoryDecals_22: -3269069187783324852
+      StoryDecals_23: 6362427533323163266
+      StoryDecals_24: 5150454279102194054
+      StoryDecals_25: 1488318890201793635
+      StoryDecals_26: 1962056165009807783
+      StoryDecals_27: -6070730902448801821
+      StoryDecals_28: 4672547483810615552
+      StoryDecals_29: -8545438065968855976
+      StoryDecals_3: 2105235804994495395
+      StoryDecals_30: -8527043626168504625
+      StoryDecals_31: 3625634978641680985
+      StoryDecals_32: 9067755334004604028
+      StoryDecals_33: 2985200379864364474
+      StoryDecals_34: 2984039543792915023
+      StoryDecals_35: -4367199596308647016
+      StoryDecals_36: 9161265895140894555
+      StoryDecals_37: 4849156215439729885
+      StoryDecals_38: 2529226355524021887
+      StoryDecals_39: -1173416094820086293
+      StoryDecals_4: 3224938510609622569
+      StoryDecals_40: -6667646530930427016
+      StoryDecals_41: -6616678844710890284
+      StoryDecals_42: -2152983229208151318
+      StoryDecals_43: 6573124810965987911
+      StoryDecals_44: 3853018709638088707
+      StoryDecals_45: -7129926477725034632
+      StoryDecals_46: 6503373490570645912
+      StoryDecals_47: 6752484463927575120
+      StoryDecals_48: 4143428817296635692
+      StoryDecals_49: 3134470636142923746
+      StoryDecals_5: 3437789285779590291
+      StoryDecals_50: 6327736864076787954
+      StoryDecals_51: 1825071277696606131
+      StoryDecals_52: -2252060477996192934
+      StoryDecals_53: -7207766167919229059
+      StoryDecals_54: -8177667589750404458
+      StoryDecals_55: 4514170033195668335
+      StoryDecals_56: 1380359587941725142
+      StoryDecals_57: 3670740639211078987
+      StoryDecals_58: 1938849459317578879
+      StoryDecals_59: 730234904270488304
+      StoryDecals_6: 1233426043455215982
+      StoryDecals_60: -414538198152646415
+      StoryDecals_61: -4413380210242908485
+      StoryDecals_62: 6817155992614236435
+      StoryDecals_63: -3788470937938920582
+      StoryDecals_64: 8104052856742315649
+      StoryDecals_65: 1191381643142843688
+      StoryDecals_66: 2594896888059567996
+      StoryDecals_67: -321680158481057
+      StoryDecals_68: 6950098151596879072
+      StoryDecals_69: 4393107539993851614
+      StoryDecals_7: -3108101631169477047
+      StoryDecals_70: -1023064157664579592
+      StoryDecals_71: -5146554691125309378
+      StoryDecals_72: -4723496582072195821
+      StoryDecals_73: -4019525417673576170
+      StoryDecals_74: 5640883077701932267
+      StoryDecals_75: 2662711501419393657
+      StoryDecals_76: -589774059789086399
+      StoryDecals_77: 3047191572724096167
+      StoryDecals_78: -8339449552415070178
+      StoryDecals_79: -1303952516314120173
+      StoryDecals_8: 80974957014986485
+      StoryDecals_80: -4320030079861991192
+      StoryDecals_81: 8335598067876428508
+      StoryDecals_82: 1535602350509461686
+      StoryDecals_83: -9082337377470976969
+      StoryDecals_84: 5590743600023631167
+      StoryDecals_85: -5942536716423396124
+      StoryDecals_86: 5512814910717871663
+      StoryDecals_87: -830040372118162961
+      StoryDecals_88: 7856924031262376429
+      StoryDecals_89: -2174738096599570330
+      StoryDecals_9: 2543659091038035218
+      StoryDecals_90: 5062551188726407665
+      StoryDecals_91: 7274989257668874635
+      StoryDecals_92: 4803921867507289736
+      StoryDecals_93: -727794407820643418
+      StoryDecals_94: 9119366183542933088
+      StoryDecals_95: 2328657477524634772
+      StoryDecals_96: 2894088360013088838
+      StoryDecals_97: 6542497370617284721
+      StoryDecals_98: -4277781354541355112
+      StoryDecals_99: 7688229214078057727
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

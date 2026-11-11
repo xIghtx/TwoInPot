@@ -1,0 +1,61 @@
+.screen { flex-grow: 1; color: #edf1f6; }
+.language-menu { flex-grow: 1; justify-content: center; align-items: center; background-color: #151d38; padding: 20px; }
+.language-heading { font-size: 28px; -unity-font-style: bold; margin-top: 18px; }
+.language-buttons { flex-direction: row; margin-top: 12px; }
+.language-button { min-width: 150px; margin-left: 6px; margin-right: 6px; }
+.menu-actions { flex-direction: row; }
+.menu-actions .quit { margin-left: 4px; margin-right: 4px; }
+.settings-panel { position: absolute; left: 0; right: 0; top: 0; bottom: 0; justify-content: center; align-items: center; background-color: rgba(5, 10, 18, 0.72); }
+.settings-card { width: 310px; background-color: #25365b; padding: 24px; border-radius: 0px; border-width: 3px; border-color: #52657e; }
+.menu { flex-grow: 1; justify-content: center; align-items: center; background-color: #151d38; padding: 20px; }
+.lobby { flex-grow: 1; justify-content: center; align-items: center; background-color: #151d38; padding: 20px; }
+.lobby-buttons { flex-direction: row; }
+.lobby-code-row { flex-direction: row; align-items: center; margin-bottom: 8px; }
+.lobby-code-row Button { margin-left: 8px; }
+.lobby-buttons Button { min-width: 170px; margin-left: 5px; margin-right: 5px; }
+.player-choices { flex-direction: row; width: 420px; }
+.player-choice { flex-grow: 1; white-space: normal; background-color: #25365b; border-width: 3px; border-color: #35455b; border-radius: 0px; padding: 13px; margin: 5px; -unity-text-align: middle-center; color: #edf1f6; }
+.player-choice-waiting { opacity: 0.38; }
+.player-choice-accepted { background-color: #23744f; border-color: #64d497; color: #ffffff; }
+.title { font-size: 46px; -unity-font-style: bold; letter-spacing: 5px; color: #ffbf46; }
+.subtitle { font-size: 18px; color: #b2c3d8; margin-bottom: 18px; }
+.columns { flex-direction: row; flex-shrink: 0; width: 84%; max-width: 960px; }
+.card { flex-grow: 1; flex-basis: 0; background-color: #25365b; padding: 20px; margin: 8px; border-radius: 0px; border-width: 3px; border-color: #35455b; }
+.eyebrow { color: #ffbf46; font-size: 12px; letter-spacing: 2px; margin-bottom: 10px; }
+.cyan { color: #6cd8ff; }
+.heading { font-size: 23px; -unity-font-style: bold; margin-bottom: 8px; }
+.description { white-space: normal; color: #b2c3d8; font-size: 14px; min-height: 50px; }
+Button { background-color: #30445e; color: #edf1f6; border-width: 0; border-radius: 0px; padding: 10px 16px; margin-top: 8px; margin-bottom: 4px; -unity-font-style: bold; font-size: 13px; }
+Button:hover { background-color: #46617e; }
+Button:disabled { opacity: 0.4; }
+.primary { background-color: #ffbf46; color: #233c42; }
+.primary:hover { background-color: #ffc895; }
+.secondary { background-color: #6cd8ff; color: #233c42; }
+.secondary:hover { background-color: #8ae9ed; }
+TextField { margin-top: 12px; margin-bottom: 4px; font-size: 16px; }
+.unity-text-field__label { min-width: 78px; color: #bdcce0; }
+.unity-text-field__input { background-color: #101c2d; color: #ffffff; padding: 10px; border-radius: 0px; }
+.status { white-space: normal; font-size: 15px; color: #ffca94; margin-top: 18px; max-width: 920px; -unity-text-align: middle-center; }
+.footnote { font-size: 13px; color: #afc0d4; margin-top: 12px; }
+.quit { width: 95px; margin-top: 12px; }
+.hud { flex-grow: 1; justify-content: space-between; }
+.topbar { flex-direction: row; align-items: center; padding: 12px 20px; background-color: #151d38; }
+.brand { font-size: 18px; color: #ffbf46; -unity-font-style: bold; margin-right: 24px; }
+.hud-status { flex-grow: 1; font-size: 14px; }
+.room { font-size: 13px; color: #6cd8ff; margin-right: 12px; }
+.topbar Button { margin-left: 6px; padding: 8px 12px; }
+.bottom { background-color: #151d38; padding: 16px 24px; }
+.objective { font-size: 18px; color: #edf1f6; }
+.practice-card { position: absolute; left: 20%; right: 20%; top: 22%; align-items: center; padding: 18px 24px; background-color: #151d38; border-width: 2px; border-color: #6cd8ff; border-radius: 0px; }
+.practice-title { font-size: 25px; -unity-font-style: bold; color: #ffbf46; margin-bottom: 8px; -unity-text-align: middle-center; }
+.practice-instructions { white-space: normal; font-size: 19px; color: #edf1f6; -unity-text-align: middle-center; }
+.stage-announcement { position: absolute; top: 11%; left: 15%; right: 15%; padding: 12px; background-color: rgba(13, 21, 34, 0.88); color: #ffdc97; font-size: 24px; -unity-font-style: bold; -unity-text-align: middle-center; border-radius: 0px; white-space: normal; }
+.connection-lost-panel { position: absolute; left: 0; right: 0; top: 0; bottom: 0; justify-content: center; align-items: center; background-color: rgba(5, 10, 18, 0.82); }
+.connection-lost-card { width: 380px; background-color: #25365b; padding: 30px; border-radius: 0px; border-width: 2px; border-color: #ffbf46; }
+
+.story-line { position: absolute; left: 16%; right: 16%; top: 18%; padding: 8px 14px; background-color: #151d38; border-left-width: 3px; border-left-color: #6cd8ff; color: #ccd2e7; font-size: 14px; white-space: normal; -unity-text-align: middle-center; }
+.received-note { position: absolute; right: 2%; top: 30%; width: 255px; padding: 10px 12px; background-color: rgba(21,29,56,0.94); border-left-width: 3px; border-left-color: #e8ad53; color: #eadac0; font-size: 14px; white-space: normal; }
+.note-answered { color: #b1d9c3; border-left-color: #79bda4; }
+.objective { white-space: normal; }
+.circuit-panel { position: absolute; right: 2%; top: 29%; width: 290px; padding: 12px; border-width: 2px; border-color: #6cd8ff; background-color: rgba(21,29,56,0.96); color: #edf1f6; font-size: 16px; white-space: normal; }
+.footnote { white-space: normal; }

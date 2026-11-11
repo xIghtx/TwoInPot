@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 4fd1d115c0f32834ea0d01d8897aadde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2184924116465890482
+    second: ClayCharacters_0
+  - first:
+      213: -6949877951426767162
+    second: ClayCharacters_1
+  - first:
+      213: 2712988909866308504
+    second: ClayCharacters_2
+  - first:
+      213: -7679350185238663345
+    second: ClayCharacters_3
+  - first:
+      213: -5636621093106506072
+    second: ClayCharacters_4
+  - first:
+      213: -2701265461767707594
+    second: ClayCharacters_5
+  - first:
+      213: -4036592681530670954
+    second: ClayCharacters_6
+  - first:
+      213: 7081781938840996667
+    second: ClayCharacters_7
+  - first:
+      213: 4908551193131761151
+    second: ClayCharacters_8
+  - first:
+      213: -5876004029475059220
+    second: ClayCharacters_9
+  - first:
+      213: -4217377579770442900
+    second: ClayCharacters_10
+  - first:
+      213: -4089806707027268721
+    second: ClayCharacters_11
+  - first:
+      213: -4123580122732009009
+    second: ClayCharacters_12
+  - first:
+      213: -4361664578284376617
+    second: ClayCharacters_13
+  - first:
+      213: 1624518511477894417
+    second: ClayCharacters_14
+  - first:
+      213: -6995805727678320319
+    second: ClayCharacters_15
+  - first:
+      213: -272062049589460048
+    second: ClayCharacters_16
+  - first:
+      213: -3193682117534761761
+    second: ClayCharacters_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ClayCharacters0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 186
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0339960694d6c408ce10d9e31f6c01
+      internalID: 1707239219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 186
+        width: 49
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4489796, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23af5327ad4d5a4d9aacb5b62599e05
+      internalID: -427661828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 184
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5208333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1217aba1d3c8be4cbc6ed5deb68947e
+      internalID: -806250342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 186
+        width: 49
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5102041, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11357214c6224964e85a6b0926b87f88
+      internalID: -385645003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 55
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4181818, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be8915a063595542b27c22033ac0d49
+      internalID: -210906244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 124
+        width: 58
+        height: 55
+      alignment: 9
+      pivot: {x: 0.55172414, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dd9c7ba28c7674e859e9744318c437
+      internalID: -2034816326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 124
+        width: 54
+        height: 49
+      alignment: 9
+      pivot: {x: 0.42592594, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5031129b634896f4298731d083ab7865
+      internalID: 1807915133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 122
+        width: 52
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1030d9e34e1aa4ebeca5299e71fe94
+      internalID: -1652673634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 62
+        width: 36
+        height: 46
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56209722aa006b48957e5ffac22e6d4
+      internalID: -660647481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 62
+        width: 37
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f208f483d53fd64b923b0ae1312b944
+      internalID: -1012016163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 67
+        width: 45
+        height: 43
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5309e02d4d81419271af88cfcfd9f
+      internalID: 1785205592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 62
+        width: 47
+        height: 46
+      alignment: 9
+      pivot: {x: 0.40425533, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f5a59ad7a478439d16e3cae908dfb
+      internalID: 453149136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 39
+        height: 46
+      alignment: 9
+      pivot: {x: 0.35897437, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36ea94d7c30e54883e3ff0ed1605d2
+      internalID: -1141543170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 39
+        height: 47
+      alignment: 9
+      pivot: {x: 0.41025642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86dcb2a50723ad4ebe8eac94305f89d
+      internalID: 517614126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 38
+        height: 46
+      alignment: 9
+      pivot: {x: 0.42105263, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b1214c6ab6ebc498abd9fe456c592c
+      internalID: 1756910612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ClayCharacters15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 42
+        height: 46
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9247f5f7ae0f2ed4991df77858604619
+      internalID: -1048002329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ClayCharacters0: 1707239219
+      ClayCharacters1: -427661828
+      ClayCharacters10: 1785205592
+      ClayCharacters11: 453149136
+      ClayCharacters12: -1141543170
+      ClayCharacters13: 517614126
+      ClayCharacters14: 1756910612
+      ClayCharacters15: -1048002329
+      ClayCharacters2: -806250342
+      ClayCharacters3: -385645003
+      ClayCharacters4: -210906244
+      ClayCharacters5: -2034816326
+      ClayCharacters6: 1807915133
+      ClayCharacters7: -1652673634
+      ClayCharacters8: -660647481
+      ClayCharacters9: -1012016163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

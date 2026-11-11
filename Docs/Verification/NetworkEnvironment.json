@@ -1,0 +1,28 @@
+{
+  "DateKST": "2026-10-28",
+  "Interface": "Wi-Fi",
+  "IPv4": "192.168.219.100",
+  "Gateway": "192.168.219.1",
+  "Category": "Public",
+  "Connectivity": "Internet",
+  "LinkRateMbps": 325,
+  "FirewallRules": [
+    {
+      "DisplayName": "twoinpot.exe",
+      "Enabled": "True",
+      "Action": "Allow",
+      "Direction": "Inbound",
+      "Profile": "Public"
+    },
+    {
+      "DisplayName": "twoinpot.exe",
+      "Enabled": "True",
+      "Action": "Allow",
+      "Direction": "Inbound",
+      "Profile": "Public"
+    }
+  ],
+  "HostEndpoint": [],
+  "Scope": "Two processes on one PC; not a second-device LAN test",
+  "ConfigurationChanged": false
+}

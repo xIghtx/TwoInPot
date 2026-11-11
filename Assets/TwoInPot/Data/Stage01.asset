@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53c43d093652d8847a90e3b9a90ff8fe, type: 3}
+  m_Name: Stage01
+  m_EditorClassIdentifier: Assembly-CSharp::TwoInPot.StageDefinition
+  displayName: "01 / \uC2E0\uD638 \uD1B5\uB85C"
+  movementMode: 0
+  moveSpeed: 6
+  jumpSpeed: 13
+  gravityScale: 2.5
+  minimumLaunchAngle: 5
+  maximumLaunchAngle: 175
+  startingLaunchAngle: 45
+  minimumLaunchPower: 7
+  maximumLaunchPower: 18
+  aimSpeed: 42
+  chargeSpeed: 9
+  physicalSpawn: {x: -6, y: -2.3}
+  logicSpawn: {x: -10, y: -2.3}

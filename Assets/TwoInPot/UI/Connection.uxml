@@ -1,0 +1,110 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+  <ui:Style src="Connection.uss" />
+  <ui:VisualElement class="screen" picking-mode="Ignore">
+    <ui:VisualElement name="languageMenu" class="language-menu">
+      <ui:Label text="TWO IN POT" class="title" />
+      <ui:Label name="languageTitle" text="언어를 선택하세요" class="language-heading" />
+      <ui:Label name="languageDescription" text="게임을 시작하기 전에 화면 언어를 선택할 수 있습니다." class="subtitle" />
+      <ui:VisualElement class="language-buttons">
+        <ui:Button name="selectKorean" text="한국어" class="primary language-button" />
+        <ui:Button name="selectEnglish" text="ENGLISH" class="secondary language-button" />
+      </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="menu" class="menu">
+      <ui:Label name="menuTitle" text="TWO IN POT" class="title" />
+      <ui:Label name="menuSubtitle" text="Two minds. One way forward." class="subtitle" />
+      <ui:VisualElement class="columns">
+        <ui:VisualElement class="card">
+          <ui:Label name="onlineEyebrow" text="01 / INTERNET" class="eyebrow" />
+          <ui:Label name="onlineHeading" text="Play from anywhere" class="heading" />
+          <ui:Label name="onlineDescription" text="Share a room code with your partner." class="description" />
+          <ui:Button name="hostOnline" text="CREATE ROOM" class="primary" />
+          <ui:TextField name="roomCode" label="Room code" max-length="20" />
+          <ui:Button name="joinOnline" text="JOIN WITH CODE" />
+        </ui:VisualElement>
+        <ui:VisualElement class="card">
+          <ui:Label name="localEyebrow" text="02 / LOCAL NETWORK" class="eyebrow cyan" />
+          <ui:Label name="localHeading" text="Connect two PCs" class="heading" />
+          <ui:Label name="localDescription" text="Same network: enter the host PC's IP.&#10;Same PC: 127.0.0.1" class="description" />
+          <ui:Button name="hostLan" text="HOST ON THIS PC" class="secondary" />
+          <ui:TextField name="address" label="Host IP" max-length="45" />
+          <ui:Button name="joinLan" text="JOIN BY IP" />
+        </ui:VisualElement>
+      </ui:VisualElement>
+      <ui:Label name="status" class="status" />
+      <ui:VisualElement class="menu-actions">
+        <ui:Button name="settingsMenu" text="SETTINGS" class="quit" />
+        <ui:Button name="quit" text="QUIT" class="quit" />
+      </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="lobby" class="lobby">
+      <ui:Label name="lobbyTitle" text="역할 선택" class="title" />
+      <ui:Label name="lobbyDescription" text="두 사람이 역할을 고르고 수락하면 시작합니다." class="subtitle" />
+      <ui:VisualElement class="lobby-code-row">
+        <ui:Label name="lobbyCode" class="room" />
+        <ui:Button name="copyLobbyCode" text="코드 복사" />
+      </ui:VisualElement>
+      <ui:VisualElement class="player-choices">
+        <ui:Label name="playerOneChoice" text="PLAYER 1 / HOST&#10;선택 대기" class="player-choice" />
+        <ui:Label name="playerTwoChoice" text="PLAYER 2 / GUEST&#10;선택 대기" class="player-choice" />
+      </ui:VisualElement>
+      <ui:VisualElement class="lobby-buttons">
+        <ui:Button name="choosePhysical" text="피지컬 선택" class="primary" />
+        <ui:Button name="chooseLogic" text="로직 선택" class="secondary" />
+      </ui:VisualElement>
+      <ui:Label name="lobbyStatus" class="status" />
+      <ui:Button name="acceptRole" text="선택 수락" class="primary" />
+      <ui:Button name="settingsLobby" text="설정" class="quit" />
+    </ui:VisualElement>
+    <ui:VisualElement name="hud" class="hud" picking-mode="Ignore">
+      <ui:VisualElement class="topbar">
+        <ui:Label name="stageLabel" text="TWO IN POT / 01" class="brand" />
+        <ui:Label name="hudStatus" class="hud-status" />
+        <ui:Label name="code" class="room" />
+        <ui:Button name="copyCode" text="COPY CODE" />
+        <ui:Button name="settingsHud" text="SETTINGS" />
+      </ui:VisualElement>
+      <ui:VisualElement class="bottom" picking-mode="Ignore">
+        <ui:Label name="objective" class="objective" />
+        <ui:Label name="controls" text="A D / ARROWS   Move     SPACE   Jump" class="footnote" />
+      </ui:VisualElement>
+      <ui:VisualElement name="practiceCard" class="practice-card" picking-mode="Ignore">
+        <ui:Label name="practiceTitle" text="기믹 연습" class="practice-title" />
+        <ui:Label name="practiceInstructions" text="각자 화면의 안내를 따라 해보세요." class="practice-instructions" />
+      </ui:VisualElement>
+      <ui:Label name="stageAnnouncement" class="stage-announcement" picking-mode="Ignore" />
+      <ui:Label name="storyLine" class="story-line" picking-mode="Ignore" />
+      <ui:Label name="receivedNote" class="received-note" picking-mode="Ignore" />
+      <ui:Label name="circuitPanel" class="circuit-panel" picking-mode="Ignore" />
+    </ui:VisualElement>
+    <ui:VisualElement name="settingsPanel" class="settings-panel">
+      <ui:VisualElement class="settings-card">
+        <ui:Label name="settingsTitle" text="설정" class="heading" />
+        <ui:Label name="settingsDescription" text="게임 설정" class="description" />
+        <ui:Button name="openLanguage" text="언어" class="secondary" />
+        <ui:Button name="toggleSfx" text="효과음 끄기" />
+        <ui:Button name="settingsRestartGame" text="처음부터 다시하기" />
+        <ui:Button name="settingsReset" text="다시 시작" />
+        <ui:Button name="settingsLeave" text="나가기" />
+        <ui:Button name="settingsQuit" text="게임 종료" />
+        <ui:Button name="closeSettings" text="닫기" />
+      </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="languagePanel" class="settings-panel">
+      <ui:VisualElement class="settings-card">
+        <ui:Label name="languageSettingsTitle" text="언어" class="heading" />
+        <ui:Label name="languageSettingsDescription" text="현재 지원하는 언어를 선택하세요." class="description" />
+        <ui:Button name="settingsKorean" text="한국어" class="primary" />
+        <ui:Button name="settingsEnglish" text="ENGLISH" class="secondary" />
+        <ui:Button name="closeLanguage" text="뒤로" />
+      </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="connectionLostPanel" class="connection-lost-panel">
+      <ui:VisualElement class="connection-lost-card">
+        <ui:Label name="connectionLostTitle" text="연결이 끊겼습니다" class="heading" />
+        <ui:Label name="connectionLostDescription" text="호스트의 연결이 끊겼습니다." class="description" />
+        <ui:Button name="dismissConnectionLost" text="확인" class="primary" />
+      </ui:VisualElement>
+    </ui:VisualElement>
+  </ui:VisualElement>
+</ui:UXML>

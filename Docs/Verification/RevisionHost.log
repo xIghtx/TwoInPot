@@ -1,0 +1,94 @@
+Mono path[0] = 'C:/Users/night/OneDrive/문서/ChatGPT/CoMPaSS/TwoInPot_UnityProject/Builds/Windows/TwoInPot_Data/Managed'
+Mono config path = 'C:/Users/night/OneDrive/문서/ChatGPT/CoMPaSS/TwoInPot_UnityProject/Builds/Windows/MonoBleedingEdge/etc'
+CodeReloadManager initialized
+Found 1 interfaces on host : 0) 10.21.15.62
+Player connection [8688]  Target information:
+
+Player connection [8688]  * "[IP] 10.21.15.62 [Port] 55001 [Flags] 2 [Guid] 2579959855 [EditorId] 1625178879 [Version] 1048832 [Id] WindowsPlayer(2,BOOK-AF2LE6LNCA) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] Two In Pot" 
+
+Player connection [8688] Started UDP target info broadcast (1) on [225.0.0.222:54997].
+
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.6.0f1 (f7f8ed4d1e24)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=1048576, entitiesPerBlock=256, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Users/night/OneDrive/문서/ChatGPT/CoMPaSS/TwoInPot_UnityProject/Builds/Windows/TwoInPot_Data/UnitySubsystems
+Forcing GfxDevice: Direct3D 11
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0xa7a0)
+    Vendor:   Intel
+    VRAM:     8004 MB
+    Driver:   31.0.101.4314
+Begin MonoManager ReloadAssembly
+- Finished resetting the current domain, in  0.023 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+UnloadTime: 1.405800 ms
+Shader 'Hidden/Universal Render Pipeline/GaussianDepthOfField' is not supported or has been stripped from the build (in 'GaussianDepthOfField'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/GaussianDepthOfField' is not supported or has been stripped from the build (in 'GaussianDepthOfField'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/BokehDepthOfField' is not supported or has been stripped from the build (in 'BokehDepthOfField'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/CameraMotionBlur' is not supported or has been stripped from the build (in 'MotionBlur'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/PaniniProjection' is not supported or has been stripped from the build (in 'PaniniProjection'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+Shader 'Hidden/Universal Render Pipeline/Bloom' is not supported or has been stripped from the build (in 'Bloom'). PostProcessing render passes will not execute.
+[POT_NET] Host listening on 0.0.0.0:7777; LAN address=10.21.15.62
+[TwoInPot] Starting a local room...
+[TwoInPot] Room open. Waiting for your partner, or explore together.
+[TwoInPot] Room open. Waiting for your partner, or explore together.
+[POT_PERF] stage=1 average=59.1fps over33ms=3/664
+[POT_TEST] STAGE 01 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=2 average=59.8fps over33ms=0/241
+[POT_TEST] STAGE 02 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=3 average=59.4fps over33ms=0/429
+[POT_TEST] STAGE 03 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=4 average=59.9fps over33ms=0/292
+[POT_TEST] STAGE 04 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=5 average=59.9fps over33ms=0/220
+[POT_TEST] STAGE 05 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=6 average=59.1fps over33ms=2/427
+[POT_TEST] STAGE 06 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=7 average=59.8fps over33ms=0/219
+[POT_TEST] STAGE 07 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=8 average=59.9fps over33ms=0/218
+[POT_TEST] STAGE 08 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=9 average=59.9fps over33ms=0/526
+[POT_TEST] STAGE 09 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=10 average=59.8fps over33ms=0/471
+[POT_TEST] STAGE 10 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] stage=11 average=59.9fps over33ms=0/239
+[POT_TEST] STAGE 11 PASS: practice guard, reset, demo, objective and clear
+[POT_TEST] STAGE 12 PASS: practice guard, reset, demo, objective and clear
+[POT_PERF] SUMMARY average=59.6fps onePercentLow=37.8fps p95Ms=16.8 over33ms=8/4573 worstMs=82.1 resolution=1280x720 internal=640x360 samples=4573. Measured on this device; not a guarantee for other laptops.
+[POT_PERF] stage=12 average=59.3fps over33ms=3/627
+[POT_TEST] HOST PASS checks=1300
+[TwoInPot] Disconnected. Ready for a new room.
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+CodeReloadManager destroyed
+GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
+PlayerConnection::Cleanup##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1793322593722,"processId":30380,"allocatedMemory":681109,"memoryLabels":[{"Default":5816},{"NewDelete":104},{"Thread":80},{"Manager":546068},{"VertexData":96},{"GfxDevice":368},{"GfxThread":24},{"Serialization":17000},{"TextLib":63476},{"BaseObject":4512},{"String":1550},{"Utility":32768},{"PoolAlloc":1008},{"ScriptManager":5688},{"CodeReload":440},{"CloudService":288},{"WebRequest":3863},{"VR":1928},{"Video":144},{"Subsystems":96},{"CoreBusinessMetrics":128}]}
